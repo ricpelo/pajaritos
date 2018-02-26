@@ -1,0 +1,563 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 65
+            [file] => ./commands/HelloController.php
+            [message] => Property $help conflicts with a defined getter getHelp in app\commands\HelloController.
+        )
+
+    [1] => Array
+        (
+            [line] => 7
+            [file] => ./models/User.php
+            [message] => Property $id conflicts with a defined getter getId in app\models\User.
+        )
+
+    [2] => Array
+        (
+            [line] => 10
+            [file] => ./models/User.php
+            [message] => Property $authKey conflicts with a defined getter getAuthKey in app\models\User.
+        )
+
+    [3] => Array
+        (
+            [file] => ./widgets/Alert.php
+            [message] => broken link to \yii\bootstrap\Alert::closeButton in app\widgets\Alert
+        )
+
+    [4] => Array
+        (
+            [line] => 103
+            [file] => vendor/yiisoft/yii2/base/View.php
+            [message] => Property $dynamicPlaceholders conflicts with a defined getter getDynamicPlaceholders in yii\base\View.
+        )
+
+    [5] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\serializer in yii\caching\CacheInterface
+        )
+
+    [6] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\keyPrefix in yii\caching\CacheInterface
+        )
+
+    [7] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\keyPrefix in yii\caching\CacheInterface
+        )
+
+    [8] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\defaultDuration in yii\caching\CacheInterface
+        )
+
+    [9] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\serializer in yii\caching\CacheInterface
+        )
+
+    [10] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\serializer in yii\caching\CacheInterface
+        )
+
+    [11] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\serializer in yii\caching\CacheInterface
+        )
+
+    [12] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\defaultDuration in yii\caching\CacheInterface
+        )
+
+    [13] => Array
+        (
+            [file] => vendor/yiisoft/yii2/caching/CacheInterface.php
+            [message] => broken link to \yii\caching\serializer in yii\caching\CacheInterface
+        )
+
+    [14] => Array
+        (
+            [file] => vendor/yiisoft/yii2/console/controllers/HelpController.php
+            [message] => broken link to \yii\console\controllers\ExitCode::UNSPECIFIED_ERROR in yii\console\controllers\HelpController
+        )
+
+    [15] => Array
+        (
+            [file] => vendor/yiisoft/yii2/console/controllers/HelpController.php
+            [message] => broken link to \yii\console\controllers\ExitCode::OK in yii\console\controllers\HelpController
+        )
+
+    [16] => Array
+        (
+            [file] => vendor/yiisoft/yii2/console/controllers/MigrateController.php
+            [message] => broken link to \yii\console\controllers\ExitCode::UNSPECIFIED_ERROR in yii\console\controllers\MigrateController
+        )
+
+    [17] => Array
+        (
+            [file] => vendor/yiisoft/yii2/console/controllers/MigrateController.php
+            [message] => broken link to \yii\console\controllers\ExitCode::OK in yii\console\controllers\MigrateController
+        )
+
+    [18] => Array
+        (
+            [file] => vendor/yiisoft/yii2/console/controllers/ServeController.php
+            [message] => broken link to \yii\console\controllers\ExitCode::UNSPECIFIED_ERROR in yii\console\controllers\ServeController
+        )
+
+    [19] => Array
+        (
+            [file] => vendor/yiisoft/yii2/console/controllers/ServeController.php
+            [message] => broken link to \yii\console\controllers\ExitCode::OK in yii\console\controllers\ServeController
+        )
+
+    [20] => Array
+        (
+            [line] => 357
+            [file] => vendor/yiisoft/yii2/data/DataFilter.php
+            [message] => Undefined parameter documented:  in detectSearchAttributeType().
+        )
+
+    [21] => Array
+        (
+            [file] => vendor/yiisoft/yii2/data/DataFilter.php
+            [message] => broken link to \yii\data\model in yii\data\DataFilter
+        )
+
+    [22] => Array
+        (
+            [file] => vendor/yiisoft/yii2/data/DataFilter.php
+            [message] => broken link to \yii\data\model in yii\data\DataFilter
+        )
+
+    [23] => Array
+        (
+            [file] => vendor/yiisoft/yii2/data/DataFilter.php
+            [message] => broken link to \yii\data\model in yii\data\DataFilter
+        )
+
+    [24] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/ArrayExpression.php
+            [message] => broken link to \yii\db\dimensions in yii\db\ArrayExpression
+        )
+
+    [25] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/ArrayExpression.php
+            [message] => broken link to \yii\db\type in yii\db\ArrayExpression
+        )
+
+    [26] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/ArrayExpression.php
+            [message] => broken link to \yii\db\value in yii\db\ArrayExpression
+        )
+
+    [27] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Command.php
+            [message] => broken link to \yii\db\yii\db\PdoValue in yii\db\Command
+        )
+
+    [28] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Command.php
+            [message] => broken link to \yii\db\yii\db\Query in yii\db\Command
+        )
+
+    [29] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Command.php
+            [message] => broken link to \yii\db\yii\db\Query in yii\db\Command
+        )
+
+    [30] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Command.php
+            [message] => broken link to \PDOStatement::execute() in yii\db\Command
+        )
+
+    [31] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Connection.php
+            [message] => broken link to \version_compare() in yii\db\Connection
+        )
+
+    [32] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Connection.php
+            [message] => broken link to \version_compare() in yii\db\Connection
+        )
+
+    [33] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/ExpressionBuilder.php
+            [message] => broken link to \yii\db\yii\db\Expression in yii\db\ExpressionBuilder
+        )
+
+    [34] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/ExpressionBuilder.php
+            [message] => broken link to \yii\db\yii\db\Expression in yii\db\ExpressionBuilder
+        )
+
+    [35] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/ExpressionBuilder.php
+            [message] => broken link to \yii\db\yii\db\Expression in yii\db\ExpressionBuilder
+        )
+
+    [36] => Array
+        (
+            [line] => 103
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => Property $expressionBuilders conflicts with a defined setter setExpressionBuilders in yii\db\QueryBuilder.
+        )
+
+    [37] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [38] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\setConditionClasses() in yii\db\QueryBuilder
+        )
+
+    [39] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\setConditonClasses() in yii\db\QueryBuilder
+        )
+
+    [40] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\setExpressionBuilder() in yii\db\QueryBuilder
+        )
+
+    [41] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [42] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\Query in yii\db\QueryBuilder
+        )
+
+    [43] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\Query in yii\db\QueryBuilder
+        )
+
+    [44] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\Query in yii\db\QueryBuilder
+        )
+
+    [45] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [46] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [47] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [48] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [49] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [50] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/QueryBuilder.php
+            [message] => broken link to \yii\db\yii\db\condition\ConditionInterface in yii\db\QueryBuilder
+        )
+
+    [51] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [52] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [53] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [54] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [55] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [56] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [57] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [58] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/Schema.php
+            [message] => broken link to \version_compare() in yii\db\Schema
+        )
+
+    [59] => Array
+        (
+            [line] => 69
+            [file] => vendor/yiisoft/yii2/db/conditions/BetweenColumnsCondition.php
+            [message] => Undefined parameter documented:  in __construct().
+        )
+
+    [60] => Array
+        (
+            [line] => 47
+            [file] => vendor/yiisoft/yii2/db/conditions/InCondition.php
+            [message] => Undefined parameter documented:  in __construct().
+        )
+
+    [61] => Array
+        (
+            [line] => 47
+            [file] => vendor/yiisoft/yii2/db/conditions/InCondition.php
+            [message] => Undefined parameter documented:  in __construct().
+        )
+
+    [62] => Array
+        (
+            [line] => 48
+            [file] => vendor/yiisoft/yii2/db/conditions/LikeCondition.php
+            [message] => Undefined parameter documented:  in setEscapingReplacements().
+        )
+
+    [63] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/conditions/NotCondition.php
+            [message] => broken link to \yii\db\conditions\condition in yii\db\conditions\NotCondition
+        )
+
+    [64] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/conditions/NotCondition.php
+            [message] => broken link to \yii\db\conditions\condition in yii\db\conditions\NotCondition
+        )
+
+    [65] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/conditions/NotCondition.php
+            [message] => broken link to \yii\db\conditions\condition in yii\db\conditions\NotCondition
+        )
+
+    [66] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/cubrid/Schema.php
+            [message] => broken link to \yii\db\cubrid\ColumnSchema in yii\db\cubrid\Schema
+        )
+
+    [67] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/cubrid/Schema.php
+            [message] => broken link to \yii\db\cubrid\ColumnSchema in yii\db\cubrid\Schema
+        )
+
+    [68] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/cubrid/conditions/LikeConditionBuilder.php
+            [message] => broken link to \yii\db\cubrid\conditions\buildLikeCondition() in yii\db\cubrid\conditions\LikeConditionBuilder
+        )
+
+    [69] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/mssql/QueryBuilder.php
+            [message] => broken link to \version_compare() in yii\db\mssql\QueryBuilder
+        )
+
+    [70] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/oci/conditions/LikeConditionBuilder.php
+            [message] => broken link to \yii\db\oci\conditions\buildLikeCondition() in yii\db\oci\conditions\LikeConditionBuilder
+        )
+
+    [71] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/pgsql/ArrayExpressionBuilder.php
+            [message] => broken link to \yii\db\pgsql\type in yii\db\pgsql\ArrayExpressionBuilder
+        )
+
+    [72] => Array
+        (
+            [file] => vendor/yiisoft/yii2/db/pgsql/JsonExpressionBuilder.php
+            [message] => broken link to \yii\db\pgsql\type in yii\db\pgsql\JsonExpressionBuilder
+        )
+
+    [73] => Array
+        (
+            [file] => vendor/yiisoft/yii2/di/Instance.php
+            [message] => broken link to \yii\di\var_export() in yii\di\Instance
+        )
+
+    [74] => Array
+        (
+            [line] => 122
+            [file] => vendor/yiisoft/yii2/filters/PageCache.php
+            [message] => Property $view conflicts with a defined getter getView in yii\filters\PageCache.
+        )
+
+    [75] => Array
+        (
+            [file] => vendor/yiisoft/yii2/helpers/BaseHtml.php
+            [message] => broken link to \yii\helpers\mergeCssClasses() in yii\helpers\BaseHtml
+        )
+
+    [76] => Array
+        (
+            [file] => vendor/yiisoft/yii2/helpers/BaseStringHelper.php
+            [message] => broken link to \yii\helpers\fnmatch() in yii\helpers\BaseStringHelper
+        )
+
+    [77] => Array
+        (
+            [line] => 98
+            [file] => vendor/yiisoft/yii2/rbac/DbManager.php
+            [message] => Property $rules conflicts with a defined getter getRules in yii\rbac\DbManager.
+        )
+
+    [78] => Array
+        (
+            [line] => 34
+            [file] => vendor/yiisoft/yii2/rbac/PhpManager.php
+            [message] => Property $defaultRoles conflicts with a defined setter setDefaultRoles in yii\rbac\PhpManager.
+        )
+
+    [79] => Array
+        (
+            [line] => 79
+            [file] => vendor/yiisoft/yii2/rbac/PhpManager.php
+            [message] => Property $rules conflicts with a defined getter getRules in yii\rbac\PhpManager.
+        )
+
+    [80] => Array
+        (
+            [file] => vendor/yiisoft/yii2/test/BaseActiveFixture.php
+            [message] => broken link to \yii\test\loadDataFile in yii\test\BaseActiveFixture
+        )
+
+    [81] => Array
+        (
+            [file] => vendor/yiisoft/yii2/test/FileFixtureTrait.php
+            [message] => broken link to \yii\test\getData() in yii\test\FileFixtureTrait
+        )
+
+    [82] => Array
+        (
+            [file] => vendor/yiisoft/yii2/test/FileFixtureTrait.php
+            [message] => broken link to \yii\test\getData() in yii\test\FileFixtureTrait
+        )
+
+    [83] => Array
+        (
+            [file] => vendor/yiisoft/yii2/test/FileFixtureTrait.php
+            [message] => broken link to \yii\test\getData() in yii\test\FileFixtureTrait
+        )
+
+    [84] => Array
+        (
+            [file] => vendor/yiisoft/yii2/test/FileFixtureTrait.php
+            [message] => broken link to \yii\test\getData() in yii\test\FileFixtureTrait
+        )
+
+    [85] => Array
+        (
+            [file] => vendor/yiisoft/yii2/test/FileFixtureTrait.php
+            [message] => broken link to \yii\test\data in yii\test\FileFixtureTrait
+        )
+
+    [86] => Array
+        (
+            [file] => vendor/yiisoft/yii2/web/ErrorAction.php
+            [message] => broken link to \yii\web\yii\web\ErrorHandler in yii\web\ErrorAction
+        )
+
+    [87] => Array
+        (
+            [file] => vendor/yiisoft/yii2/web/ErrorAction.php
+            [message] => broken link to \yii\web\yii\base\UserException in yii\web\ErrorAction
+        )
+
+    [88] => Array
+        (
+            [file] => vendor/yiisoft/yii2/web/ErrorAction.php
+            [message] => broken link to \yii\web\yii\web\ErrorHandler in yii\web\ErrorAction
+        )
+
+    [89] => Array
+        (
+            [file] => vendor/yiisoft/yii2/web/ErrorAction.php
+            [message] => broken link to \yii\web\yii\base\UserException in yii\web\ErrorAction
+        )
+
+    [90] => Array
+        (
+            [file] => vendor/yiisoft/yii2/web/Request.php
+            [message] => broken link to yii\validators\IpValidator::::setRanges() in yii\web\Request
+        )
+
+)
